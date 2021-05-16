@@ -237,6 +237,7 @@ h2 {
         width: 85%;
         margin-left: 0;
         margin-right: 0;
+        margin-bottom: 1rem;
         margin: auto;
         min-height: auto;
     }
