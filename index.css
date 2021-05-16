@@ -234,9 +234,10 @@ h2 {
     }
 
     #kira {
-        width: 92%;
-        min-height: auto;
+        width: 85%;
         margin-left: 0;
+        margin-right: 0;
+        margin: auto;
     }
     
     #kira .header {
