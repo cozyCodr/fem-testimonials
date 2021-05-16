@@ -213,28 +213,29 @@ h2 {
     }
 
     #daniel {
-        width: 100%;
+        width: 90%;
         margin-right: 0;
     }
 
     #jonathan {
-        width: 100%;
+        width: 90%;
         margin-right: 0;
     }
 
     #jeanette {
-        width: 100%;
+        width: 90%;
         margin-right: 0;
         margin-top: 0
     }
 
     #patrick {
-        width: 100%;
+        width: 90%;
         margin-right: 0;
     }
 
     #kira {
         width: 100%;
+        height: auto;
         margin-left: 0;
     }
     
