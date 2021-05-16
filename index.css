@@ -238,6 +238,7 @@ h2 {
         margin-left: 0;
         margin-right: 0;
         margin: auto;
+        min-height: auto;
     }
     
     #kira .header {
